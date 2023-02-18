@@ -31,7 +31,7 @@ function App() {
     <>
       <HelloWorld userDetails={obj1} type="student" />
       <HelloWorld userDetails={obj2} type="TA" />
-      <>{add(3, 5)}</>
+      
       <ClassComponent />
     </>
     // <>
